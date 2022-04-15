@@ -3,15 +3,15 @@
 Get perfect.
 
 # Installation
-`npm i npmpackages_testt --save`
+`npm i npmpackages_selim --save`
 
 Then...
 
 
 ```
-import { shadowizard } from 'shadowizard';
+import { shadowizardselim } from 'shadowizardselim';
 
-shadowizard({
+shadowizardselim({
     shadow_type: 'soft',
     padding: false
 })
