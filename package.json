@@ -1,0 +1,22 @@
+{
+  "name": "npmpackages_testt",
+  "version": "1.0.0",
+  "description": "This is first npm package and add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Selim-Reza-Swadhin/npmpackage_test.git"
+  },
+  "keywords": [
+    "shadowselim"
+  ],
+  "author": "Selim Reza Swadhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Selim-Reza-Swadhin/npmpackage_test/issues"
+  },
+  "homepage": "https://github.com/Selim-Reza-Swadhin/npmpackage_test#readme"
+}

@@ -3,7 +3,7 @@
 Get perfect.
 
 # Installation
-`npm i shadowizard --save`
+`npm i npmpackages_testt --save`
 
 Then...
 
